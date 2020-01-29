@@ -18,6 +18,6 @@ public class Class1 {
   @Test
   public void tc003() 
   {
-	  System.out.println("tc003 executed");
+	  System.out.println("tc003 executed successfull");
   }
 }
